@@ -47,8 +47,6 @@ Mi objetivo es crear sitios web atractivos y funcionales usando las últimas tec
 
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/></code>
 
-  <code><img height="40" src="https://styled-components.com/logo.png" alt="styled-components"/></code>
-
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/></code>
 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"/></code>
@@ -56,23 +54,17 @@ Mi objetivo es crear sitios web atractivos y funcionales usando las últimas tec
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"/></code>
 
   <code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/></code>
-</p>
 
-<p align="left"> 
+  <br />
+
   <!-- Fila 2 -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"/></code>
 
   <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"/></code>
 
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></code>
-
   <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/></code>
 
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress"/></code>
-
-  <code><img height="40" src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1625705011/Brand%20Guidelines/Logos/Cloud/Cloudinary_Logo_Cloud_Blue_500px.png" alt="cloudinary"/></code>
 
   <code><img height="40" src="https://vitejs.dev/logo.svg" alt="vite"/></code>
 
