@@ -38,13 +38,50 @@ Mi objetivo es crear sitios web atractivos y funcionales usando las últimas tec
 **Mi stack de tecnologias:**  
 
 <p align="left"> 
-  <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a></code>
- <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> </code>
- 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> </code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <!-- HTML -->
+  <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a></code>
+
+  <!-- CSS -->
+  <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a></code>
+
+  <!-- SASS / SCSS -->
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/></code>
+
+  <!-- Styled Components -->
+  <code><img height="40" src="https://styled-components.com/logo.png" alt="styled-components"/></code>
+
+  <!-- Bootstrap -->
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/></code>
+
+  <!-- JavaScript -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"/></code>
+
+  <!-- React -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"/></code>
+
+  <!-- Tailwind -->
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/></code>
+
+  <!-- Git -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"/></code>
+
+  <!-- GitHub -->
+  <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"/></code>
+
+  <!-- Firebase -->
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/></code>
+
+  <!-- WordPress -->
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress"/></code>
+
+  <!-- Vite -->
+  <code><img height="40" src="https://vitejs.dev/logo.svg" alt="vite"/></code>
+
+  <!-- Terminal -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"/></code>
+</p>
+
 
   
