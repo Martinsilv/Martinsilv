@@ -37,39 +37,13 @@ Mi objetivo es crear sitios web atractivos y funcionales usando las últimas tec
 
 **Mi stack de tecnologias:**  
 
-<p align="left"> 
-  <!-- Fila 1 -->
-  <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a></code>
+| HTML | CSS | SASS | Bootstrap | JavaScript | React | Tailwind |
+|------|-----|------|-----------|------------|--------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> |
 
-  <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"/></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"/></code>
-
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/></code>
-
-  <br />
-
-  <!-- Fila 2 -->
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"/></code>
-
-  <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"/></code>
-
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress"/></code>
-
-  <code><img height="40" src="https://vitejs.dev/logo.svg" alt="vite"/></code>
-
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"/></code>
-</p>
+| Git | GitHub | Firebase | WordPress | Vite | Terminal |
+|-----|--------|----------|-----------|------|----------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/> | <img src="https://vitejs.dev/logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="40"/> |
 
 
   
