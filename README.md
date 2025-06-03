@@ -16,21 +16,26 @@
 <br />
 <br />
 
-Hi there, I'm **Martin**, a passionate **web developer**  👨🏽‍💻 and a **backend development student** 🚀 from Argentina. My goal is to create engaging and functional websites using the latest technologies and best development practices. From static websites to interactive web applications, I'm dedicated to writing clean and efficient code that meets industry standards. 
-
+Hola, soy **Martín**, un apasionado desarrollador web 👨🏽‍💻 y estudiante de desarrollo backend 🚀 de Argentina.
+Mi objetivo es crear sitios web atractivos y funcionales usando las últimas tecnologías y las mejores prácticas de desarrollo. Desde sitios estáticos hasta aplicaciones web interactivas, me dedico a escribir código limpio y eficiente que cumpla con los estándares de la industria.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Un poco sobre mí:**
 
-- 👨🏽‍💻I have experience frontend development  with HTML, CSS, and JavaScript
-- 💼 I'm currently learning backend(mongoDB.Node.Js) 
-- 🙍🏽‍♂️ I'm constantly educating myself and looking for new ideas and information to stay up to date.;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via martinsilva510@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae]() to get more info.
+-👨🏽‍💻 Tengo experiencia en desarrollo frontend con HTML, CSS y JavaScript
+
+-💼 Actualmente estoy aprendiendo backend (MongoDB, Node.js)
+
+-🙍🏽‍♂️ Me mantengo en constante aprendizaje, siempre buscando nuevas ideas e información para mantenerme actualizado
+
+-💬 Podés preguntarme lo que quieras, ¡me encanta ayudar!
+
+-📫 Podés contactarme por mail a: martinsilva510@gmail.com
+
+-📝 Mirá mi Currículum Vitae para más información
 
 
-**Languages and Tools:**  
+**Mi stack de tecnologias:**  
 
 <p align="left"> 
   <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a></code>
