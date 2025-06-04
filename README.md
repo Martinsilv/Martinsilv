@@ -9,7 +9,7 @@ Mi objetivo es crear sitios web atractivos y funcionales usando las últimas tec
 
 **Un poco sobre mí:**
 
--👨🏽‍💻 Tengo experiencia en desarrollo frontend con HTML, CSS y JavaScript
+-👨🏽‍💻 Tengo experiencia en el desarrollo front-end
 
 -💼 Actualmente estoy aprendiendo backend (MongoDB, Node.js)
 
